@@ -1,12 +1,12 @@
-## Hi there 👋
+## RevivalSearch 🎃
+- The organization holding Eoogle.
 
-<!--
+# What is Eoogle?
 
-**Here are some ideas to get you started:**
+- Eoogle is a search engine made on Discord for revivals, Makes the name make more sense.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# How do i use Eoogle? 
+- We suggest using the Discord bot and not building it yourself, If  you want to build it yourself you can. Get the bot link to add to your server [here!](https://eoogle.pages.dev/)
+
+# Should i use Eoogle?
+- Its completely optional to use Eoogle.
